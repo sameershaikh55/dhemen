@@ -274,6 +274,8 @@ tr {
 	}
 	.resNav {
 		display: block;
+		position: absolute;
+		width: 92%;
 	}
 }
 
